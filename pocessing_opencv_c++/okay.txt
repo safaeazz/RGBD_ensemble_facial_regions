@@ -1,0 +1,2086 @@
+-*-*-*-------------------depth-------------------*-*-*-*-
+./data/complexity2/chin/
+ERROR=83.587791    
+./data/complexity2/cheeknose/
+ERROR=96.183205    
+./data/complexity2/chin+mouth+jaw/
+ERROR=96.183205    
+./data/complexity2/nosemouth/
+ERROR=91.984734    
+./data/complexity2/eyes/
+ERROR=94.274811    
+./data/complexity2/nose/
+ERROR=86.641220    
+./data/complexity2/face/
+ERROR=99.618324    
+chin accuracy-----0.854369
+cheeknose accuracy-----0.946602
+chin+mouth+jaw accuracy-----0.917476
+nosemouth accuracy-----0.883495
+eyes accuracy-----0.92233
+nose accuracy-----0.88835
+face accuracy-----0.88835
+s---206
+LETS SEE THE DECISION
+------chin accuracy----1------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0.854369------vs M---4.55825
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----1------score---0.883495
+------eyes----0------score---0.92233
+------nose----1------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---1.77184------vs M---3.64078
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----1------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0.92233------vs M---4.49029
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----1------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0.883495------vs M---4.52913
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----1------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0.92233------vs M---4.49029
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----1------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----1------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---1.77184------vs M---3.64078
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----1------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0.88835------vs M---4.52427
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----1------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0.883495------vs M---4.52913
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----1------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0.92233------vs M---4.49029
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----1------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0.883495------vs M---4.52913
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0.946602------vs M---4.46602
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0.946602------vs M---4.46602
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----1------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----1------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---1.7767------vs M---3.63592
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----1------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0.92233------vs M---4.49029
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----1------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0.92233------vs M---4.49029
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----1------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0.88835------vs M---4.52427
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----1------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----1------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---1.80583------vs M---3.6068
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----1------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0.88835------vs M---4.52427
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----1------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0.88835------vs M---4.52427
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----1------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---1.86893------vs M---3.54369
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----1------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0.92233------vs M---4.49029
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----1------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0.88835------vs M---4.52427
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----1------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---1.86893------vs M---3.54369
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0.946602------vs M---4.46602
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----1------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0.883495------vs M---4.52913
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----1------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0.88835------vs M---4.52427
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----1------score---0.883495
+------eyes----0------score---0.92233
+------nose----1------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---1.77184------vs M---3.64078
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----1------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0.854369------vs M---4.55825
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----1------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0.88835------vs M---4.52427
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0.946602------vs M---4.46602
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----1------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0.883495------vs M---4.52913
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----1------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0.88835------vs M---4.52427
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----1------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0.854369------vs M---4.55825
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----1------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0.854369------vs M---4.55825
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----1------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0.854369------vs M---4.55825
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----1------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0.854369------vs M---4.55825
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----0------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----1------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----1------score---0.92233
+------nose----0------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---2.78641------vs M---2.62621
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----1------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---1.83495------vs M---3.57767
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----1------score---0.917476
+------nosemouth----1------score---0.883495
+------eyes----1------score---0.92233
+------nose----1------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---4.55825------vs M---0.854369
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----1------score---0.917476
+------nosemouth----1------score---0.883495
+------eyes----1------score---0.92233
+------nose----1------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---3.61165------vs M---1.80097
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----1------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----1------score---0.883495
+------eyes----1------score---0.92233
+------nose----1------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---4.49515------vs M---0.917476
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----1------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----1------score---0.917476
+------nosemouth----1------score---0.883495
+------eyes----1------score---0.92233
+------nose----1------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---5.41262------vs M---0
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----1------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----1------score---0.917476
+------nosemouth----1------score---0.883495
+------eyes----1------score---0.92233
+------nose----0------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---4.52427------vs M---0.88835
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----1------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----1------score---0.917476
+------nosemouth----1------score---0.883495
+------eyes----1------score---0.92233
+------nose----1------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---5.41262------vs M---0
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----1------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---1.8301------vs M---3.58252
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----1------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----1------score---0.92233
+------nose----1------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---3.67476------vs M---1.73786
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----1------score---0.92233
+------nose----1------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---2.75728------vs M---2.65534
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----1------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----1------score---0.883495
+------eyes----1------score---0.92233
+------nose----1------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---4.49515------vs M---0.917476
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----1------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----1------score---0.917476
+------nosemouth----1------score---0.883495
+------eyes----1------score---0.92233
+------nose----1------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---5.41262------vs M---0
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----1------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----1------score---0.92233
+------nose----1------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---3.67476------vs M---1.73786
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----1------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----1------score---0.917476
+------nosemouth----1------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---2.65534------vs M---2.75728
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----1------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----1------score---0.917476
+------nosemouth----1------score---0.883495
+------eyes----0------score---0.92233
+------nose----1------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---4.49029------vs M---0.92233
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----1------score---0.92233
+------nose----1------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---2.75728------vs M---2.65534
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----1------score---0.92233
+------nose----1------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---2.75728------vs M---2.65534
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----1------score---0.917476
+------nosemouth----1------score---0.883495
+------eyes----1------score---0.92233
+------nose----1------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---4.55825------vs M---0.854369
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----1------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----1------score---0.92233
+------nose----0------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---1.83981------vs M---3.57282
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----1------score---0.917476
+------nosemouth----1------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---2.74757------vs M---2.66505
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----1------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----1------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----1------score---0.92233
+------nose----0------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---3.64078------vs M---1.77184
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----1------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----1------score---0.917476
+------nosemouth----1------score---0.883495
+------eyes----1------score---0.92233
+------nose----0------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---4.52427------vs M---0.88835
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----1------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----1------score---0.883495
+------eyes----1------score---0.92233
+------nose----1------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---4.49515------vs M---0.917476
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----1------score---0.883495
+------eyes----1------score---0.92233
+------nose----0------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---2.75243------vs M---2.66019
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----1------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----1------score---0.917476
+------nosemouth----1------score---0.883495
+------eyes----1------score---0.92233
+------nose----1------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---5.41262------vs M---0
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----1------score---0.92233
+------nose----1------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---2.75728------vs M---2.65534
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----1------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----1------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----1------score---0.92233
+------nose----1------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---4.52913------vs M---0.883495
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----0------score---0.92233
+------nose----0------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---0------vs M---5.41262
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----0------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----1------score---0.92233
+------nose----0------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---0.92233------vs M---4.49029
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----1------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----1------score---0.917476
+------nosemouth----1------score---0.883495
+------eyes----0------score---0.92233
+------nose----1------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---4.49029------vs M---0.92233
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----1------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----1------score---0.92233
+------nose----1------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---3.67476------vs M---1.73786
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----1------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----1------score---0.917476
+------nosemouth----1------score---0.883495
+------eyes----1------score---0.92233
+------nose----1------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---5.41262------vs M---0
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----1------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----1------score---0.917476
+------nosemouth----1------score---0.883495
+------eyes----1------score---0.92233
+------nose----1------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---5.41262------vs M---0
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----1------score---0.883495
+------eyes----1------score---0.92233
+------nose----1------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---3.64078------vs M---1.77184
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----1------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----1------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----1------score---0.92233
+------nose----1------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---4.52913------vs M---0.883495
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----1------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----1------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----1------score---0.92233
+------nose----1------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---4.52913------vs M---0.883495
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----0------score---0.883495
+------eyes----1------score---0.92233
+------nose----0------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---1.86893------vs M---3.54369
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*0
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----1------score---0.917476
+------nosemouth----1------score---0.883495
+------eyes----1------score---0.92233
+------nose----1------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---4.55825------vs M---0.854369
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+LETS SEE THE DECISION
+------chin accuracy----0------score---0.854369
+------cheeknose----1------score---0.946602
+------chin+mouth+jaw----0------score---0.917476
+------nosemouth----1------score---0.883495
+------eyes----1------score---0.92233
+------nose----1------score---0.88835
+------face ----1------score---1
+what about winer ????----F1---3.64078------vs M---1.77184
+-*-*-**************************-THE FINAL DECISION****************************-*-*-*1
+>>> / [1 x 206]
+ // [1 x 206]
+acc 0.966019

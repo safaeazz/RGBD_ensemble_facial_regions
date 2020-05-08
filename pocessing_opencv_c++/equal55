@@ -1,0 +1,2918 @@
+------**************-------details ------*********------
+Process data ------chin
+Process data ------cheeknose
+Process data ------chin+mouth+jaw
+Process data ------nosemouth
+Process data ------nose
+Process data ------face
+Process data ------eyes
+    
+    
+    
+    
+    
+    
+    
+Time taken: 914.49s
+label size --206
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.873786------------------------vs Males---4.50485
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.873786------------------------vs Males---4.50485
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--1--acc---0.868932
+---females--------------0.868932------------------------vs Males---4.50971
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.907767------------------------vs Males---4.47087
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.893204------------------------vs Males---4.48544
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.898058------------------------vs Males---4.48058
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.893204------------------------vs Males---4.48544
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.936893------------------------vs Males---4.44175
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.907767------------------------vs Males---4.47087
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--1--acc---0.868932
+---females--------------1.76699------------------------vs Males---3.61165
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.936893------------------------vs Males---4.44175
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--1--acc---0.868932
+---females--------------0.868932------------------------vs Males---4.50971
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.873786------------------------vs Males---4.50485
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--1--acc---0.868932
+---females--------------2.67961------------------------vs Males---2.69903
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.898058------------------------vs Males---4.48058
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.898058------------------------vs Males---4.48058
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------1.80583------------------------vs Males---3.57282
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.907767------------------------vs Males---4.47087
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.936893------------------------vs Males---4.44175
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.873786------------------------vs Males---4.50485
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.898058------------------------vs Males---4.48058
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.936893------------------------vs Males---4.44175
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.873786------------------------vs Males---4.50485
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.873786------------------------vs Males---4.50485
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------1.77184------------------------vs Males---3.6068
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.873786------------------------vs Males---4.50485
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.873786------------------------vs Males---4.50485
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--1--acc---0.868932
+---females--------------0.868932------------------------vs Males---4.50971
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.936893------------------------vs Males---4.44175
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------1.80583------------------------vs Males---3.57282
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.893204------------------------vs Males---4.48544
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.893204------------------------vs Males---4.48544
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.936893------------------------vs Males---4.44175
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.907767------------------------vs Males---4.47087
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--1--acc---0.868932
+---females--------------0.868932------------------------vs Males---4.50971
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--1--acc---0.868932
+---females--------------1.74272------------------------vs Males---3.63592
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------1.76699------------------------vs Males---3.61165
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.893204------------------------vs Males---4.48544
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.893204------------------------vs Males---4.48544
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.907767------------------------vs Males---4.47087
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--1--acc---0.868932
+---females--------------0.868932------------------------vs Males---4.50971
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.893204------------------------vs Males---4.48544
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.907767------------------------vs Males---4.47087
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--1--acc---0.868932
+---females--------------1.76214------------------------vs Males---3.6165
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.907767------------------------vs Males---4.47087
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.873786------------------------vs Males---4.50485
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.893204------------------------vs Males---4.48544
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.873786------------------------vs Males---4.50485
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.936893------------------------vs Males---4.44175
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0------------------------vs Males---5.37864
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--1--acc---0.868932
+---females--------------3.58738------------------------vs Males---1.79126
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------3.61165------------------------vs Males---1.76699
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------3.63592------------------------vs Males---1.74272
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--1--acc---0.868932
+---females--------------3.57767------------------------vs Males---1.80097
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--1--acc---0.868932
+---females--------------2.67961------------------------vs Males---2.69903
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--1--acc---0.868932
+---females--------------5.37864------------------------vs Males---0
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------3.60194------------------------vs Males---1.7767
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--1--acc---0.868932
+---females--------------4.48058------------------------vs Males---0.898058
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--1--acc---0.868932
+---females--------------2.64078------------------------vs Males---2.73786
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------2.70388------------------------vs Males---2.67476
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------2.67961------------------------vs Males---2.69903
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------3.6165------------------------vs Males---1.76214
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------2.74272------------------------vs Males---2.63592
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--1--acc---0.868932
+---females--------------5.37864------------------------vs Males---0
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--1--acc---0.868932
+---females--------------4.47087------------------------vs Males---0.907767
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--1--acc---0.868932
+---females--------------4.47087------------------------vs Males---0.907767
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--1--acc---0.868932
+---females--------------3.59709------------------------vs Males---1.78155
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--1--acc---0.868932
+---females--------------5.37864------------------------vs Males---0
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--1--acc---0.868932
+---females--------------4.48058------------------------vs Males---0.898058
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------3.61165------------------------vs Males---1.76699
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--1--acc---0.868932
+---females--------------3.6068------------------------vs Males---1.77184
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--1--acc---0.868932
+---females--------------4.50485------------------------vs Males---0.873786
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--1--acc---0.868932
+---females--------------5.37864------------------------vs Males---0
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--1--acc---0.868932
+---females--------------5.37864------------------------vs Males---0
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------4.50971------------------------vs Males---0.868932
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------4.50971------------------------vs Males---0.868932
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------2.74272------------------------vs Males---2.63592
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------2.69903------------------------vs Males---2.67961
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--1--acc---0.868932
+---females--------------5.37864------------------------vs Males---0
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------3.63592------------------------vs Males---1.74272
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------3.61165------------------------vs Males---1.76699
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--1--acc---0.868932
+---females--------------4.48544------------------------vs Males---0.893204
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--1--acc---0.868932
+---females--------------3.54369------------------------vs Males---1.83495
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------3.63592------------------------vs Males---1.74272
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--1--acc---0.868932
+---females--------------2.71359------------------------vs Males---2.66505
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--0--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------0.893204------------------------vs Males---4.48544
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--0--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--0--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--0--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--1--acc---0.868932
+---females--------------1.80583------------------------vs Males---3.57282
+----THE FINAL DECISION============================>0
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------4.50971------------------------vs Males---0.868932
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--1--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--1--acc---0.868932
+---females--------------5.37864------------------------vs Males---0
+----THE FINAL DECISION============================>1
+acc for the part : chin== 0.898058
+--part----chin--1--acc---0.898058
+acc for the part : cheeknose== 0.873786
+--part----cheeknose--1--acc---0.873786
+acc for the part : chin+mouth+jaw== 0.907767
+--part----chin+mouth+jaw--1--acc---0.907767
+acc for the part : nosemouth== 0.893204
+--part----nosemouth--0--acc---0.893204
+acc for the part : eyes== 0.936893
+--part----eyes--1--acc---0.936893
+acc for the part : nose== 0.868932
+--part----nose--0--acc---0.868932
+---females--------------3.6165------------------------vs Males---1.76214
+----THE FINAL DECISION============================>1
+    
+------******----------*******-----------GENERAL RESULTS---------*****----------------*****-------
+    
+data type : rgb+depth
+Descriptor : 3DLBP
+testing data size : [1 x 206]
+parts decision => 
+
+chin accuracy-----0.898058
+cheeknose accuracy-----0.873786
+chin+mouth+jaw accuracy-----0.907767
+nosemouth accuracy-----0.893204
+eyes accuracy-----0.936893
+nose accuracy-----0.868932
+      
+full face decision :-2.59223e+13%
+voting decision : 97.5728%
